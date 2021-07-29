@@ -10,7 +10,7 @@ Zero-Shot Learning (ZSL) aims to recognise unseen object classes, which are not 
 
 # Usage:
 ## 1) Download the datasets
-Follow the instructions provided in [data/Dataset_Instruction.txt](data/Dataset_Instruction.txt)
+Follow the instructions provided in [data/Dataset_Instruction.txt](data/Datasets_Instruction.txt)
 
 
 ## 2) Create a conda environment:
