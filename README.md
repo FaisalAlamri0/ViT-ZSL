@@ -2,12 +2,12 @@
 
 [PyTorch](https://pytorch.org/) | [Arxiv]()
 
+![](figs/ViT-ZSL%20Architecture.jpg)
+
 PyTorch implementation of our ViT-ZSL model for zero-shot learning:  
 [Multi-Headed Self-Attention via Vision Transformer for Zero-Shot Learning]()  
 [Faisal Alamri](), [Anjan Dutta](https://sites.google.com/site/2adutta/)   
 [IMVIP, 2021](https://imvipconference.github.io/)
-
-![](figs/ViT-ZSL%20Architecture.jpg)
 
 ## Abstract
 Zero-Shot Learning (ZSL) aims to recognise unseen object classes, which are not observed during the trainingphase.  The existing body of works on ZSL mostly relies on pretrained visual features and lacks the explicitattribute localisation mechanism on images. In this work, we propose an attention-based model in the problemsettings of ZSL to learn attributes useful for unseen class recognition. Our method uses an attention mechanismadapted from Vision Transformer to capture and learn discriminative attributes by splitting images into smallpatches.   We conduct experiments on three popular ZSL benchmarks (i.e.,  AWA2,  CUB and SUN) and setnew state-of-the-art harmonic mean results on all the three datasets, which illustrate the effectiveness of ourproposed method.
