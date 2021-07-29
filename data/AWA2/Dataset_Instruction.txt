@@ -1,4 +1,0 @@
-Please download and extract the datasets zipped file into
-./data/{DATASETNAME}
-
-AWA2: AwA2-data.zip (https://cvml.ist.ac.at/AwA2/AwA2-data.zip)
