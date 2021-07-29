@@ -1,4 +1,4 @@
-#ViT-ZSL
+# ViT-ZSL
 
 [PyTorch](https://pytorch.org/) | [Arxiv]()
 
@@ -42,7 +42,7 @@ jupyter notebook ViT_ZSL.ipynb
 ```
 
 
-##External sources:
+## External sources:
 
 - [Timm](https://pypi.org/project/timm/)
 - [Transformer](https://github.com/huggingface/transformers)
@@ -50,11 +50,11 @@ jupyter notebook ViT_ZSL.ipynb
 - [Vision_Transformer_Tutorial](https://colab.research.google.com/github/hirotomusiker/schwert_colab_data_storage/blob/master/notebook/Vision_Transformer_Tutorial.ipynb#scrollTo=3f7gQ89cvAnv)
 
 
-##Further questions:
+## Further questions:
 Please do read [our paper]().
 If you still require any further information, please feel free to contact us at our emails. 
 
-##Citation:
+## Citation:
 If you use ViT-ZSL in your research, please use the following BibTeX entry.
 ```
 @InProceedings{Alamri2021ViTZSL,
@@ -65,7 +65,7 @@ If you use ViT-ZSL in your research, please use the following BibTeX entry.
 }
 ```
 
-##Authors
+## Authors
 * [Faisal Alamri]() ([@FaisalAlamri](https://github.com/FaisalAlamri0))
 * [Anjan Dutta](https://sites.google.com/site/2adutta/) ([@AnjanDutta](https://github.com/AnjanDutta))
 
