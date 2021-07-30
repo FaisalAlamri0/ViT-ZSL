@@ -52,7 +52,7 @@ jupyter notebook ViT_ZSL.ipynb
 
 ## Further questions:
 Please do read [our paper]().
-If you still require any further information, please feel free to contact us at our emails. 
+If you still require any further information, feel free to contact us at our emails. 
 
 ## Citation:
 If you use ViT-ZSL in your research, please use the following BibTeX entry.
