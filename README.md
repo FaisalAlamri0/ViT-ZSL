@@ -5,7 +5,7 @@
 ![](figs/ViT-ZSL%20Architecture.jpg)
 
 PyTorch implementation of our ViT-ZSL model for zero-shot learning:  
-[Multi-Headed Self-Attention via Vision Transformer for Zero-Shot Learning]()  
+[Multi-Head Self-Attention via Vision Transformer for Zero-Shot Learning]()  
 [Faisal Alamri](), [Anjan Dutta](https://sites.google.com/site/2adutta/)   
 [IMVIP, 2021](https://imvipconference.github.io/)
 
@@ -59,7 +59,7 @@ If you use ViT-ZSL in your research, please use the following BibTeX entry.
 ```
 @InProceedings{Alamri2021ViTZSL,
   author    = {Faisal Alamri and Anjan Dutta},
-  title     = {Multi-Headed Self-Attention via Vision Transformer for Zero-Shot Learning},
+  title     = {Multi-Head Self-Attention via Vision Transformer for Zero-Shot Learning},
   booktitle = {IMVIP},
   year      = {2021}
 }
